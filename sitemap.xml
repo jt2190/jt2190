@@ -3,18 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tikalsky.com/posts/haskell-day-two/</loc>
+    <lastmod>2020-08-02T12:22:14-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tikalsky.com/</loc>
-    <lastmod>2020-05-26T10:37:52-04:00</lastmod>
+    <lastmod>2020-08-02T12:22:14-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tikalsky.com/posts/</loc>
-    <lastmod>2020-05-26T10:37:52-04:00</lastmod>
+    <lastmod>2020-08-02T12:22:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tikalsky.com/posts/hello-world-with-haskell/</loc>
+    <lastmod>2020-07-08T17:49:03-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tikalsky.com/posts/usps-shipment-confirmation-acceptance-notice-with-shopify/</loc>
     <lastmod>2020-05-26T10:37:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tikalsky.com/posts/my-second-post/</loc>
+    <lastmod>2020-05-25T12:21:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tikalsky.com/posts/my-first-post/</loc>
+    <lastmod>2020-05-25T12:21:37-04:00</lastmod>
   </url>
   
   <url>
